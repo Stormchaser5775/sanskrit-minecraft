@@ -1,45 +1,45 @@
 {
   "block.minecraft.acacia_button": "Śamīyo Gaṇḍaḥ",
-  "block.minecraft.acacia_door": "Śamīyaṃ Dvāram",
-  "block.minecraft.acacia_fence": "Śamīyā Vṛtiḥ",
-  "block.minecraft.acacia_fence_gate": "Śamīyaṃ Vṛtidvāram",
-  "block.minecraft.acacia_hanging_sign": "Śamīyaṃ Lambamānaṃ Cihnam",
+  "block.minecraft.acacia_door": "Śamīyaṃ Dvāram", //Let's make it रेफान्तः स्त्रीलिङ्गः द्वार्-शब्दः? शमीया द्वाः
+  "block.minecraft.acacia_fence": "Śamīyaḥ Prākāraḥ", //प्राकारः > वृतिः for fence
+  "block.minecraft.acacia_fence_gate": "Śamīyaṃ Prākāradvāram",
+  "block.minecraft.acacia_hanging_sign": "Śamīyaṃ Lambamānaṃ Cihnam", //If this is meant to be sign as in 'signpost' or 'signboard', rather than चिह्नम् maybe निर्देशफलकम् will be better
   "block.minecraft.acacia_leaves": "Śamīyani Patrāṇi",
   "block.minecraft.acacia_log": "Śamīyam Kāṣṭham",
-  "block.minecraft.acacia_planks": "Śamīyani Phalakāni",
+  "block.minecraft.acacia_planks": "Śamīyāni Phalakāni",
   "block.minecraft.acacia_pressure_plate": "Śamīyaṃ Yantrapatram",
-  "block.minecraft.acacia_sapling": "Bālaśamī",
-  "block.minecraft.acacia_sign": "Śamīyaṃ Cihnam",
+  "block.minecraft.acacia_sapling": "Bālaśamī", //A sapling or a young plant is generally अङ्कुरः or किसलयः, consider खदिराङ्कुरः/खदिरकिसलयः
+  "block.minecraft.acacia_sign": "Śamīyaṃ Cihnam", //Cf. comment on लम्बमानं चिह्नम् above
   "block.minecraft.acacia_slab": "Śamīyo Ardhāṃśaḥ",
-  "block.minecraft.acacia_stairs": "Śamīye Ārohaṇe",
-  "block.minecraft.acacia_trapdoor": "Śamīyam Mūladvāram",
-  "block.minecraft.acacia_wall_hanging_sign": "Śamīyaṃ Bhittilambamānaṃ Cihnam",
-  "block.minecraft.acacia_wall_sign": "Śamīyaṃ Bhitticihnam",
-  "block.minecraft.acacia_wood": "Śamīyaṃ Sukāṣṭham",
+  "block.minecraft.acacia_stairs": "Śamīye Ārohaṇe", //सोपानम् for stairs, सोपानबन्धः/सोपानमार्गः for staircase
+  "block.minecraft.acacia_trapdoor": "Śamīyam Mūladvāram", 
+  "block.minecraft.acacia_wall_hanging_sign": "Śamīyaṃ Bhittilambamānaṃ Cihnam", //comment on चिह्न as above 
+  "block.minecraft.acacia_wall_sign": "Śamīyaṃ Bhitticihnam", //comment on चिह्न as above
+  "block.minecraft.acacia_wood": "Śamīyaṃ Sukāṣṭham", //काष्ठम् is fine, if you want to separate it from a single log, consider दारु/दारुः
   "block.minecraft.activator_rail": "Turo Ayomargaḥ",
   "block.minecraft.air": "Vāyuḥ",
-  "block.minecraft.allium": "Dhūmalapuṣpam",
-  "block.minecraft.amethyst_block": "Sphatikaśilā",
-  "block.minecraft.amethyst_cluster": "Sphatikagulmaḥ",
+  "block.minecraft.allium": "Dhūmalapuṣpam", //I've never heard of धूमल for alliums... I've generally heard कन्द used for alliums, so maybe कन्दपुष्पम्?
+  "block.minecraft.amethyst_block": "Sphatikaśilā", //स्फटिक is very specifically alum! Amethyst is usually just some variant of 'purple gem', like नीललोहमणिः. Block can also be translated as खण्डः rather than as शिला, which would be better translated as stone or slab
+  "block.minecraft.amethyst_cluster": "Sphatikagulmaḥ", //see amethyst note above; I would also prefer विततिः over गुल्मः here bc the latter typically refers to a like a bunch of flowers oder sowas. विततिः is a little more general and can refer to a clump of stones or a clump of ore also
   "block.minecraft.ancient_debris": "Purātanāṃśaḥ",
-  "block.minecraft.andesite": "Dvaipyaśīlā",
-  "block.minecraft.andesite_slab": "Dvaipyaśailyo Ardhāṃśaḥ",
-  "block.minecraft.andesite_stairs": "Dvaipyaśailye Ārohaṇe",
+  "block.minecraft.andesite": "Dvaipyaśīlā", //it seems andesite is found far away from any actual islands lol, it's found in the Andes mountains. 
+  "block.minecraft.andesite_slab": "Dvaipyaśailyo Ardhāṃśaḥ", 
+  "block.minecraft.andesite_stairs": "Dvaipyaśailye Ārohaṇe", //see note on stairs/staircase above
   "block.minecraft.andesite_wall": "Dvaipyaśailyā Bhittiḥ",
   "block.minecraft.anvil": "Śūrmaḥ",
-  "block.minecraft.attached_melon_stem": "Attached Melon Stem",
-  "block.minecraft.attached_pumpkin_stem": "Attached Pumpkin Stem",
-  "block.minecraft.azalea": "Pauṣpavṛkṣaḥ",
-  "block.minecraft.azalea_leaves": "PauṣpavṛkṣĪyaṇi Patrāṇi",
-  "block.minecraft.azure_bluet": "Laghunīlaṃ puṣpam",
+  "block.minecraft.attached_melon_stem": "Attached Melon Stem", //Avasaktaḥ Kharbujakāṇḍaḥ
+  "block.minecraft.attached_pumpkin_stem": "Attached Pumpkin Stem", //Avasaktaḥ Kūṣmāṇḍakāṇḍaḥ
+  "block.minecraft.azalea": "Pauṣpavṛkṣaḥ", //The etymology of azalea is apparently 'dry' in Greek because it grows on dry soil. So if we're neologising the name why not something like शोषभूवृक्ष
+  "block.minecraft.azalea_leaves": "PauṣpavṛkṣĪyaṇi Patrāṇi", //I feel like the easier thing to do rather than this adjective style this is just. xyzवृक्षस्य पत्राणि lol
+  "block.minecraft.azure_bluet": "Laghunīlaṃ Puṣpam",
   "block.minecraft.bamboo": "Veṇuḥ",
-  "block.minecraft.bamboo_block": "Veṇukāṣtham",
-  "block.minecraft.bamboo_button": "Veṇujo Gaṇḍaḥ",
-  "block.minecraft.bamboo_door": "Veṇujaṃ Dvāram",
-  "block.minecraft.bamboo_fence": "Veṇujā Vṛtiḥ",
+  "block.minecraft.bamboo_block": "Veṇukāṣtham", 
+  "block.minecraft.bamboo_button": "Veṇujo Gaṇḍaḥ", //वैणवः गण्डः? 
+  "block.minecraft.bamboo_door": "Veṇujaṃ Dvāram", //वैणवी द्वाः?
+  "block.minecraft.bamboo_fence": "Veṇujā Vṛtiḥ", //see note on fence being प्राकारः
   "block.minecraft.bamboo_fence_gate": "Veṇujaṃ Vṛtidvāram",
   "block.minecraft.bamboo_hanging_sign": "Veṇujaṃ Lambamānaṃ Cihnam",
-  "block.minecraft.bamboo_mosaic": "Suveṇujakāṣtham",
+  "block.minecraft.bamboo_mosaic": "Suveṇujakāṣtham", //Not sure what the logic of adding su- here is?
   "block.minecraft.bamboo_mosaic_slab": "Suveṇujo Ardhāṃśaḥ",
   "block.minecraft.bamboo_mosaic_stairs": "Suveṇuje Ārohaṇe",
   "block.minecraft.bamboo_planks": "Veṇujāni Phalakāni",
@@ -51,24 +51,24 @@
   "block.minecraft.bamboo_trapdoor": "Veṇujaṃ Mūladvāram",
   "block.minecraft.bamboo_wall_hanging_sign": "Veṇujaṃ Bhittilambamānaṃ Cihnam",
   "block.minecraft.bamboo_wall_sign": "Veṇujaṃ Bhitticihnam",
-  "block.minecraft.barrel": "Kāṣthapātram",
-  "block.minecraft.barrier": "Antavṛtiḥ",
-  "block.minecraft.basalt": "Kṛṣṇaśīlā",
-  "block.minecraft.beacon": "Dyaurdaṇḍa",
-  "block.minecraft.beacon.primary": "Prathamā Śaktiḥ",
+  "block.minecraft.barrel": "Kāṣthapātram", //दारुभाण्डम् is better here
+  "block.minecraft.barrier": "Antavṛtiḥ", //प्रतिबन्धः
+  "block.minecraft.basalt": "Kṛṣṇaśīlā", 
+  "block.minecraft.beacon": "Dyaurdaṇḍa", //आकाशदीपः
+  "block.minecraft.beacon.primary": "Prathamā Śaktiḥ", 
   "block.minecraft.beacon.secondary": "Dvitīyā Śaktiḥ",
-  "block.minecraft.bed.no_sleep": "Kevalam rātrau vā vajravṛṣtau vā sastuṃ śaknoṣi",
-  "block.minecraft.bed.not_safe": "Idanīṃ na sasyāḥ; samīpe rākṣasāḥ santi",
-  "block.minecraft.bed.obstructed": "Eṣā śayyā ruddhā bhavati",
-  "block.minecraft.bed.occupied": "Eṣā śayyā bhuktā bhavati",
-  "block.minecraft.bed.too_far_away": "Idanīṃ na sasyāḥ; Śayyā atidūrā vartate",
+  "block.minecraft.bed.no_sleep": "Kevalam rātrau vā vajravṛṣtau vā sastuṃ śaknoṣi", //शेतुम् > सस्तुम्, also I would rather say शयनं शक्यम् bc it sounds more indrect and politer
+  "block.minecraft.bed.not_safe": "Idanīṃ na sasyāḥ; samīpe rākṣasāḥ santi", //इदानीं शयनं न शक्यम्, समीपे…
+  "block.minecraft.bed.obstructed": "Eṣā śayyā ruddhā bhavati", 
+  "block.minecraft.bed.occupied": "Eṣā śayyā bhuktā bhavati", //प्रयुज्यमाना instead of भुक्ता?
+  "block.minecraft.bed.too_far_away": "Idanīṃ na sasyāḥ; Śayyā atidūrā vartate", //
   "block.minecraft.bedrock": "Mūlaśīlā",
-  "block.minecraft.bee_nest": "Madhupāyā Gṛham",
-  "block.minecraft.beehive": "Madhupāyā Kṛtrimagṛham",
-  "block.minecraft.beetroots": "Dhūmrālavaḥ",
-  "block.minecraft.bell": "Ghaṇṭā",
-  "block.minecraft.big_dripleaf": "Guru Lulitapatram",
-  "block.minecraft.big_dripleaf_stem": "Guruṇo Lulitapatrasya Daṇḍaḥ",
+  "block.minecraft.bee_nest": "Madhupāyā Gṛham", //मधुकोषः
+  "block.minecraft.beehive": "Madhupāyā Kṛtrimagṛham", //कृत्रिमः मधुकोषः
+  "block.minecraft.beetroots": "Dhūmrālavaḥ", //पालङ्कः
+  "block.minecraft.bell": "Ghaṇṭā", 
+  "block.minecraft.big_dripleaf": "Guru Lulitapatram", 
+  "block.minecraft.big_dripleaf_stem": "Guruṇo Lulitapatrasya Daṇḍaḥ", //काण्डः, rather than दण्डः
   "block.minecraft.birch_button": "Bhūrjīyo Gaṇḍaḥ",
   "block.minecraft.birch_door": "Bhūrjīyaṃ Dvāram",
   "block.minecraft.birch_fence": "Bhūrjīyā Vṛtiḥ",
@@ -90,20 +90,20 @@
   "block.minecraft.black_bed": "Kṛṣṇā Śayyā",
   "block.minecraft.black_candle": "Kṛṣṇo Dīpaḥ",
   "block.minecraft.black_candle_cake": "Kṛṣṇena Dīpena Saha Piṣṭakaḥ",
-  "block.minecraft.black_carpet": "Kṛṣṇaẖ Kaṭaḥ",
+  "block.minecraft.black_carpet": "Kṛṣṇaḥ Kaṭaḥ",
   "block.minecraft.black_concrete": "Kṛṣṇaṃ Piṇḍam",
-  "block.minecraft.black_concrete_powder": "Kṛṣṇaḫ Piṇḍacūrṇaḥ",
-  "block.minecraft.black_glazed_terracotta": "Kṛṣṇā Supakvabhū",
+  "block.minecraft.black_concrete_powder": "Kṛṣṇaḫ Piṇḍacūrṇam",
+  "block.minecraft.black_glazed_terracotta": "Kṛṣṇā Pakvamṛt",
   "block.minecraft.black_shulker_box": "Kṛṣṇā Kavacapeṭikā",
-  "block.minecraft.black_stained_glass": "Kṛṣṇaẖ Kācaḥ",
-  "block.minecraft.black_stained_glass_pane": "Kṛṣṇaẖ Kācakavāṭaḥ",
-  "block.minecraft.black_terracotta": "Kṛṣṇā Pakvabhū",
+  "block.minecraft.black_stained_glass": "Kṛṣṇaẖ Kācaḥ", //रञ्जितकाचः
+  "block.minecraft.black_stained_glass_pane": "Kṛṣṇaẖ Kācakavāṭaḥ", //रञ्जितकाचशिला 'slab of glass'
+  "block.minecraft.black_terracotta": "Kṛṣṇā Pakvamṛt",
   "block.minecraft.black_wool": "Kṛṣṇā Ūrṇā",
   "block.minecraft.blackstone": "Blackstone",
   "block.minecraft.blackstone_slab": "Blackstone Ardhāṃśaḥ",
   "block.minecraft.blackstone_stairs": "Blackstone Ārohaṇe",
   "block.minecraft.blackstone_wall": "Blackstone Wall",
-  "block.minecraft.blast_furnace": "Blast Furnace",
+  "block.minecraft.blast_furnace": "Blast Furnace", //अग्निरन्ध्रः
   "block.minecraft.blue_banner": "Blue Dhvajaḥ",
   "block.minecraft.blue_bed": "Blue Bed",
   "block.minecraft.blue_candle": "Blue Dīpaḥ",
@@ -2442,7 +2442,7 @@
   "selectWorld.seedInfo": "Leave blank for a random seed",
   "selectWorld.select": "Gṛhītaṃ Lokaṃ Krīḍa",
   "selectWorld.targetFolder": "Save folder: %s",
-  "selectWorld.title": "Lokaṃ Gṛhāṇa",
+  "selectWorld.title": "Lokaṃ Cinuhi",
   "selectWorld.tooltip.fromNewerVersion1": "World was saved in a newer version,",
   "selectWorld.tooltip.fromNewerVersion2": "loading this world could cause problems!",
   "selectWorld.tooltip.snapshot1": "Don't forget to back up this world",
