@@ -15,7 +15,7 @@
   "block.minecraft.acacia_trapdoor": "Khadirīyam Mūladvāram", 
   "block.minecraft.acacia_wall_hanging_sign": "Khadirīyaṃ Bhittilambamānaṃ Nirdeśaphalakam",
   "block.minecraft.acacia_wall_sign": "Khadirīyaṃ Bhittinirdeśaphalakam",
-  "block.minecraft.acacia_wood": "Khadirīyaṃ Sukāṣṭham", //काष्ठम् is fine, if you want to separate it from a single log, consider दारु/दारुः
+  "block.minecraft.acacia_wood": "Khadirīyaṃ Sukāṣṭham",
   "block.minecraft.activator_rail": "Turo Ayomargaḥ",
   "block.minecraft.air": "Vāyuḥ",
   "block.minecraft.allium": "Kandapuṣpam",
@@ -39,7 +39,7 @@
   "block.minecraft.bamboo_fence": "Vaiṇavaḫ Prākāraḥ", 
   "block.minecraft.bamboo_fence_gate": "Vaiṇavā Prākāradvāḥ",
   "block.minecraft.bamboo_hanging_sign": "Vaiṇavaṃ Lambamānaṃ Nirdeśaphalakam",
-  "block.minecraft.bamboo_mosaic": "Suvaiṇavakāṣtham", //Not sure what the logic of adding su- here is?/ It's becuase mosaic blocks are the same as bamboo block but with designs
+  "block.minecraft.bamboo_mosaic": "Suvaiṇavakāṣtham",
   "block.minecraft.bamboo_mosaic_slab": "Suvaiṇavo Ardhāṃśaḥ",
   "block.minecraft.bamboo_mosaic_stairs": "Suvaiṇavaḥ Sopānamārgaḥ",
   "block.minecraft.bamboo_planks": "Vaiṇavāni Phalakāni",
@@ -54,7 +54,7 @@
   "block.minecraft.barrel": "Dārubhāṇḍam",
   "block.minecraft.barrier": "Pratibandhaḥ",
   "block.minecraft.basalt": "Kṛṣṇaśīlā", 
-  "block.minecraft.beacon": "Dyaurdaṇḍa", //आकाशदीपः
+  "block.minecraft.beacon": "Dyaurdaṇḍa",
   "block.minecraft.beacon.primary": "Prathamā Śaktiḥ", 
   "block.minecraft.beacon.secondary": "Dvitīyā Śaktiḥ",
   "block.minecraft.bed.no_sleep": "Kevalam rātrau vā vajravṛṣtau vā śayanaṃ śakyam",
